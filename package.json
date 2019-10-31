@@ -17,7 +17,6 @@
     "gulp": "^4.0.2",
     "gulp-inline-css": "^3.4.0",
     "gulp-premailer": "^0.4.0",
-    "lodash.template": "^4.5.0",
     "nunjucks": "^3.2.0"
   }
 }
