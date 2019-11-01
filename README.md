@@ -16,9 +16,10 @@ git clone https://github.com/0yzh/email-dev.git
 
 ## Install dependencies
 
-In the same directory, run:
+On the command line, navigate to the newly create `/email-dev` folder and run npm install:
 
 ```shell
+cd email-dev
 npm install
 ```
 
