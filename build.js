@@ -8,7 +8,7 @@ const fs = require('fs');
 
 /**
  * @ htmlPath - file path that we want to output the staging html file
- * @ note: this is the same file gulp will use to run inline-css and premailer
+ * @ htmlPath/index.html - this is the same file gulp will use to run inline-css and premailer
  * @ nunjucks.configure - set parent directory for nunjucks engine
  * @ htmlString - returns an html string with rendered nunjucks data
  */
