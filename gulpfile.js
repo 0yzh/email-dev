@@ -17,6 +17,6 @@ gulp.task('default', function() {
   return gulp
     .src('./stage/*.html')
     .pipe(premailer())
-    .pipe(inlineCss())
+    .pipe(inlineCss({ preserveMediaQueries: true }))
     .pipe(gulp.dest('build/'));
 });

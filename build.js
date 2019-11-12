@@ -18,7 +18,7 @@ nunjucks.configure('.');
 const htmlString = nunjucks.render('index.njk', { n: 1 });
 
 /**
- * @ htmlPath - assigned above
+ * @ htmlPath - defined above
  * @ htmlString - defined above
  * @ fs.writeFile - writes the nunjucks html string to the file path specified in htmlPath
  */

@@ -1,5 +1,13 @@
 # html-email template
 
+## Prerequisites
+
+You may need to install [Premailer gem](https://github.com/premailer/premailer/) before getting started. This is used by the gulp-premailer module.
+
+```shell
+sudo gem install premailer
+```
+
 ## Getting started
 
 Start by:
