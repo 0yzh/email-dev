@@ -39,9 +39,9 @@ When you're ready to compile, run this command: `npm run build`
 
 This will generate two new folders:
 
-- `/stage` will contains the compiled nunjucks and LESS->CSS files.
+- `/stage` which contains the compiled nunjucks and LESS->CSS files.
 
-- `/build` will contains the final HTML with rendered nunjucks data and inlined CSS / -premailer styles: `/build/index.html`
+- `/build` which contains the final HTML with rendered nunjucks data and inlined CSS / -premailer styles: `/build/index.html`
 
 ## Data
 
