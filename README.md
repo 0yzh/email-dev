@@ -37,7 +37,7 @@ You can add your development phase HTML in the `index.njk` file and LESS in the:
 
 When you're ready to compile, run this command: `npm run build`
 
-This will generate a two new folders:
+This will generate two new folders:
 
 - `/stage` will contains the compiled nunjucks and LESS->CSS files.
 
